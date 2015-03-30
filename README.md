@@ -23,4 +23,4 @@ If you desire to require minified AngularMaterial files, add the following:
 
 ## Versioning
 
-Current version of AngularMaterial - 0.8.3
+Current version of AngularMaterial - 0.8.3-74601d0
