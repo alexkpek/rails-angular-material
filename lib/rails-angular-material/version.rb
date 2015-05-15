@@ -1,3 +1,3 @@
 module AngularMaterialRails
-  VERSION = "0.9.0"
+  VERSION = "0.9.3"
 end
