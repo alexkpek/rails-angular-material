@@ -6,20 +6,20 @@ rails-angular-material wraps the [AngularMaterial](https://material.angularjs.or
 
 Add the following to your Gemfile:
 
-    gem 'rails-angular-material'
+    `gem 'rails-angular-material'`
 
 Add the following to your Rails JavaScript manifest file:
 
-    //= require angular-material
+    `//= require angular-material`
 
 And CSS file:
 
-    *= require angular-material
+    `*= require angular-material`
 
 If you desire to require minified AngularMaterial files, add the following:
 
-    //= require angular-material.min
-    *= require angular-material.min
+    `//= require angular-material.min`
+    `*= require angular-material.min`
 
 ## Versioning
 
